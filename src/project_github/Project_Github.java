@@ -17,6 +17,7 @@ public class Project_Github {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.println("My name is : Muhammad Ridho Adriandy");
+        System.out.println("D4 Teknik Informatika");
     }
     
 }
